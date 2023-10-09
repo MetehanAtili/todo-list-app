@@ -37,5 +37,5 @@ EOF
 docker build -t thoba/todo-list-app .
 
 # run the container
-docker run -d -p 8080:8080 thoba/todo-list-app
+docker run -d -p 6666:6666 thoba/todo-list-app
 
